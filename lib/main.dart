@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp( MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Currency Converter',
       theme: ThemeData(
         
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
