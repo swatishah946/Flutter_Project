@@ -5,9 +5,7 @@ A simple and user-friendly **Flutter app** that allows users to convert values b
 ## 🔧 Features
 
 - Clean and minimal user interface
-- Input amount and choose currencies to convert
-- Real-time currency conversion using an API
-- Responsive layout
+- Input amount and convert to INR.
 
 ## 📸 Screenshots
 
