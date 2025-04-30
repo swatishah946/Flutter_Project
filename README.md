@@ -11,11 +11,9 @@ A simple and user-friendly **Flutter app** that allows users to convert values b
 
 ## 📸 Screenshots
 
-| Converter Screen |
-|------------------|
-| ![Currency Converter Screenshot](assets/ss.png) |
+<img src="assets/screenshot.png" alt="Currency Converter Screenshot" width="300"/>
 
->
+
 ## 🚀 Getting Started
 
 To run the project locally:
